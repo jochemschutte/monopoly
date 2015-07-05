@@ -3,7 +3,7 @@ package model;
 import java.util.Collection;
 import java.util.ArrayList;
 
-import old.model.properties.Property;
+import model.properties.Property;
 
 
 
